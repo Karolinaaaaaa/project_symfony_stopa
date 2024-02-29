@@ -1,0 +1,3 @@
+icalendar:
+  resource: ../../src/ICalendar/Controller/
+  type: annotation

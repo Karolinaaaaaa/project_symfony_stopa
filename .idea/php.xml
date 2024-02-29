@@ -36,7 +36,6 @@
       <path value="$PROJECT_DIR$/microservice/vendor/symfony/http-client" />
       <path value="$PROJECT_DIR$/microservice/vendor/symfony/http-client-contracts" />
       <path value="$PROJECT_DIR$/microservice/vendor/symfony/monolog-bridge" />
-      <path value="$PROJECT_DIR$/microservice/vendor/friendsofphp/proxy-manager-lts" />
       <path value="$PROJECT_DIR$/microservice/vendor/symfony/doctrine-bridge" />
       <path value="$PROJECT_DIR$/microservice/vendor/symfony/polyfill-intl-normalizer" />
       <path value="$PROJECT_DIR$/microservice/vendor/symfony/dependency-injection" />
@@ -106,7 +105,6 @@
       <path value="$PROJECT_DIR$/microservice/vendor/phpunit/phpunit" />
       <path value="$PROJECT_DIR$/microservice/vendor/phpunit/php-timer" />
       <path value="$PROJECT_DIR$/microservice/vendor/myclabs/deep-copy" />
-      <path value="$PROJECT_DIR$/microservice/vendor/laminas/laminas-code" />
       <path value="$PROJECT_DIR$/microservice/vendor/theseer/tokenizer" />
       <path value="$PROJECT_DIR$/microservice/vendor/phpdocumentor/reflection-docblock" />
       <path value="$PROJECT_DIR$/microservice/vendor/phar-io/version" />
@@ -144,9 +142,22 @@
       <path value="$PROJECT_DIR$/microservice/vendor/symfony/property-access" />
       <path value="$PROJECT_DIR$/microservice/vendor/symfony/property-info" />
       <path value="$PROJECT_DIR$/microservice/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/microservice/vendor/spatie/icalendar-generator" />
+      <path value="$PROJECT_DIR$/microservice/vendor/spatie/enum" />
+      <path value="$PROJECT_DIR$/microservice/vendor/johngrogg/ics-parser" />
+      <path value="$PROJECT_DIR$/microservice/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/microservice/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/microservice/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/microservice/vendor/mtdowling/jmespath.php" />
+      <path value="$PROJECT_DIR$/microservice/vendor/aws/aws-sdk-php" />
+      <path value="$PROJECT_DIR$/microservice/vendor/aws/aws-crt-php" />
+      <path value="$PROJECT_DIR$/microservice/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/microservice/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/microservice/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/microservice/vendor/ralouphie/getallheaders" />
     </include_path>
   </component>
-  <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.0" />
   <component name="PhpStanOptionsConfiguration">
     <option name="transferred" value="true" />
   </component>

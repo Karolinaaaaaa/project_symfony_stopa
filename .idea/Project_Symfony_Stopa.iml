@@ -30,7 +30,6 @@
       <excludeFolder url="file://$MODULE_DIR$/microservice/vendor/symfony/http-client" />
       <excludeFolder url="file://$MODULE_DIR$/microservice/vendor/symfony/http-client-contracts" />
       <excludeFolder url="file://$MODULE_DIR$/microservice/vendor/symfony/monolog-bridge" />
-      <excludeFolder url="file://$MODULE_DIR$/microservice/vendor/friendsofphp/proxy-manager-lts" />
       <excludeFolder url="file://$MODULE_DIR$/microservice/vendor/symfony/doctrine-bridge" />
       <excludeFolder url="file://$MODULE_DIR$/microservice/vendor/symfony/polyfill-intl-normalizer" />
       <excludeFolder url="file://$MODULE_DIR$/microservice/vendor/symfony/dependency-injection" />
@@ -100,7 +99,6 @@
       <excludeFolder url="file://$MODULE_DIR$/microservice/vendor/phpunit/phpunit" />
       <excludeFolder url="file://$MODULE_DIR$/microservice/vendor/phpunit/php-timer" />
       <excludeFolder url="file://$MODULE_DIR$/microservice/vendor/myclabs/deep-copy" />
-      <excludeFolder url="file://$MODULE_DIR$/microservice/vendor/laminas/laminas-code" />
       <excludeFolder url="file://$MODULE_DIR$/microservice/vendor/theseer/tokenizer" />
       <excludeFolder url="file://$MODULE_DIR$/microservice/vendor/phpdocumentor/reflection-docblock" />
       <excludeFolder url="file://$MODULE_DIR$/microservice/vendor/phar-io/version" />
@@ -138,6 +136,19 @@
       <excludeFolder url="file://$MODULE_DIR$/microservice/vendor/symfony/property-access" />
       <excludeFolder url="file://$MODULE_DIR$/microservice/vendor/symfony/property-info" />
       <excludeFolder url="file://$MODULE_DIR$/microservice/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/microservice/vendor/spatie/icalendar-generator" />
+      <excludeFolder url="file://$MODULE_DIR$/microservice/vendor/spatie/enum" />
+      <excludeFolder url="file://$MODULE_DIR$/microservice/vendor/johngrogg/ics-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/microservice/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/microservice/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/microservice/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/microservice/vendor/mtdowling/jmespath.php" />
+      <excludeFolder url="file://$MODULE_DIR$/microservice/vendor/aws/aws-sdk-php" />
+      <excludeFolder url="file://$MODULE_DIR$/microservice/vendor/aws/aws-crt-php" />
+      <excludeFolder url="file://$MODULE_DIR$/microservice/vendor/psr/http-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/microservice/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/microservice/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/microservice/vendor/ralouphie/getallheaders" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
